@@ -1,2 +1,2 @@
-# Data-Analysis-using-SQL--Gett
+# Data Analysis using SQL - Aggregate Functions
 Step 2 in data analysis using SQL - aggregate functions
